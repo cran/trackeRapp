@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: ikosmidis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 850700
+bundleId: 1998510
+url: https://ikosmidis.shinyapps.io/shiny/
+when: 1554834673.09382
